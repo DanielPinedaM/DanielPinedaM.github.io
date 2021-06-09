@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages DANIEL PINEDA
 
 You can use the [editor on GitHub](https://github.com/daniel1pineda/daniel1pineda.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
